@@ -1,0 +1,9 @@
+{
+	"Todo": {
+		"dbConfig": {
+			"host": "mongodb://localhost/todo",
+			"port": 5000,
+			"dbName": "todo"
+		}
+	}
+}
