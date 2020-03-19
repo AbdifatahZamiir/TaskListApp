@@ -1,0 +1,24 @@
+p {
+	font-size: 0.7rem;
+	color: #852eba;
+}
+.nav-link {
+	color: #000000;
+	font-size: 1.2rem;
+}
+.navbar {
+	background: #852eba;
+}
+.nav-link:hover {
+	color: #852eba;
+}
+.form-group {
+	font-size: 1.3rem;
+}
+
+.btn-voilet {
+	background-color: #852eba;
+}
+.done-line {
+	text-decoration: line-through;
+}
